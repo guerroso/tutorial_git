@@ -1,0 +1,6 @@
+rm '.gitignore'
+rm 'README.md'
+rm 'log1.txt'
+rm 'log2.txt'
+rm 'logs/log3.txt'
+rm 'teste.txt'
